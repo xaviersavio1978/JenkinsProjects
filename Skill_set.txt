@@ -1,0 +1,15 @@
+Linux
+Kubernetes
+Python
+Azure SQL DB
+
+
+C#
+
+Jenkins
+Bootstrap
+Kafka
+
+AWS
+
+GCC
